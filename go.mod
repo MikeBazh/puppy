@@ -1,3 +1,3 @@
-module github.com/MikeBazh/puppy
+module puppy
 
 go 1.20

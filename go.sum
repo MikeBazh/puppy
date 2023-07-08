@@ -1,2 +1,4 @@
-github.com/MikeBazh/dog v0.0.0-20230627131320-fb5d5fd42b3b h1:2QY/c9VoBH3OGuBmrsHiOfcrwPIVcjP9WKmKYNxg/pg=
-github.com/MikeBazh/dog v0.0.0-20230627131320-fb5d5fd42b3b/go.mod h1:I/0oY4sRZvNgsOFosdJGichrK6SG2xHYySYGM1G1sTM=
+github.com/MikeBazh/dog v0.0.0-20230627134642-a9cfed828b1a h1:64zci47+JfeLiv+INGEsaw8CRjiW4QGqJJhQCDX4d8g=
+github.com/MikeBazh/dog v0.0.0-20230627134642-a9cfed828b1a/go.mod h1:EFk/dDPqDAm9btCoUe1ScMBF4j8uojs7YU2YLBweluU=
+github.com/MikeBazh/dog v1.0.1 h1:63Fug+SrVjf4QqgfQe2IA11Wn4IpWNpcoKCOWCSTN/0=
+github.com/MikeBazh/dog v1.0.1/go.mod h1:EFk/dDPqDAm9btCoUe1ScMBF4j8uojs7YU2YLBweluU=

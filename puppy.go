@@ -10,3 +10,5 @@ func Bark() string {
 func BigBark() string {
 	return dog.WhenGrownUp(Bark())
 }
+func Years(y int) int {
+	return y * 7

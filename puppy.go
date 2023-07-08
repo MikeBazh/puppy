@@ -12,3 +12,4 @@ func BigBark() string {
 }
 func Years(y int) int {
 	return y * 7
+}
